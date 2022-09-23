@@ -7,14 +7,14 @@
     "author": "Harfebi@pnp.ac.id", 
     "category": "Education", 
     'website': 'pnp.ac.id',
-    "description": """Latihan Addons Kelas MIB""",
+    "description": """Latihan Addons Kelas MIA""",
 
     "installable": True,
     "auto_install": False,
     "application": True,
 
 
-  #  "data": [
-  #  "menu.xml",
-  #  ],
+   "data": [
+   "menu.xml",
+  ],
 }
